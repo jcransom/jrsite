@@ -1,0 +1,13 @@
+---
+title: 'Two ways to push university-business collaboration'
+date: Sat, 02 May 2015 16:51:29 +0000
+draft: false
+tags: ['business', 'Universities']
+---
+
+At the core of increasing collaboration between universities and businesses is getting people from each to talk to one another. I’ve written [elsewhere](http://www.ncub.co.uk/blog/universities-and-businesses-are-stronger-when-they-work-together.html) about the benefits of collaboration. When universities work with businesses, economic growth happens. Broken down further, when universities work with businesses, businesses can access new technology and knowledge and apply this to their work, become more innovative, and improve the skills of their staff. Universities can improve the employability of their students, and test new research in a ‘real world’ setting. When the two work together, new jobs are created, productivity increases and everybody benefits. At least, that is how the theory goes. How does this work in practice? Strip collaboration to the core and you’re left with the need for people from universities to speak to businesses, and vice versa. Here are two ways to encourage this - one nudging businesses towards universities, and one students towards small employers:
+
+1.  **Innovation vouchers** provide funding for businesses to access external expertise. They reduce the risks that businesses (especially small ones) face, and can attract larger investments and build partnerships. Appropriately tailored and effectively marketed, these relatively small investments benefit universities and businesses, and long term can boost growth and employment. You can read more on how vouchers work and their benefits from the [OECD](www.oecd.org/innovation/policyplatform/48135973.pdf) and [Universities UK](http://www.universitiesuk.ac.uk/highereducation/Documents/2014/InnovationVouchers.pdf).
+2.  **Careers services** can promote the benefits of working for small and medium sized enterprises (SMEs), and encourage students to take up a placement, internship or job at an SME. Students may have misconceptions about small businesses - that they aren’t as innovative as multinationals, for example - that can be dispelled by a few well-chosen case studies.
+
+The CBI recently published an excellent [guide to university-business collaboration](http://news.cbi.org.uk/reports/best-of-both-worlds/best-of-both-worlds-pdf/) with a practical focus. Although this, and the above links, are UK- or European-focused, they are equally applicable (with tailoring to local context) to low-income countries. This is a particularly exciting area and a source of long term economic growth and innovation.

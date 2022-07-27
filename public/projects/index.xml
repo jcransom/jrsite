@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview of projects on James Ransom</title>
+    <link>/projects/</link>
+    <description>Recent content in Overview of projects on James Ransom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NCEE</title>
+      <link>/projects/ncee/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/ncee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yorkshire Universities</title>
+      <link>/projects/yorkshire-universities/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/yorkshire-universities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact</title>
+      <link>/projects/impact/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools &amp; processes</title>
+      <link>/projects/tools-processes/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/tools-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rwanda Action</title>
+      <link>/projects/rwanda-action/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/rwanda-action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart cities</title>
+      <link>/projects/smart-cities/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/smart-cities/</guid>
+      <description>Ideas, articles and reports on how universities can shape a new and better wave of smart cities.</description>
+    </item>
+    
+    <item>
+      <title>Internationalisation</title>
+      <link>/projects/internationalisation/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/internationalisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KPMG</title>
+      <link>/projects/kpmg/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/kpmg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

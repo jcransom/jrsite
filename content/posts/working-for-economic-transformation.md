@@ -1,0 +1,16 @@
+---
+title: 'Working for economic transformation'
+date: Wed, 01 Apr 2015 16:42:12 +0000
+draft: false
+tags: ['employment', 'further education', 'Universities']
+---
+
+Last week the Overseas Development Institute published an excellent report, [Working for economic transformation](http://www.odi.org/publications/9317-working-economic-transformation), on generating better jobs in low income countries. The report notes that countries need to make decisions in education policy to match labour market demand:
+
+> Promoting higher-level technical or university education, more expensive per student, can help facilitate the leap to more productive sectors. But this can come at the cost of reduced funding for junior levels of education, which might allow for a wider boost to low-productivity employment. It can also help to exacerbate inequalities in education, with tertiary places more often taken up by those from wealthier backgrounds. Increasing investment in lower levels of education tends to have a greater effect on improving attainment outcomes among the poorest. At the same time, expanding educational enrolment and attainment may reduce available funding necessary for higher-quality education, such as for school facilities, teacher training and wages. (p.28)
+
+In other words, there is a budgetary choice to be made between strengthening schools (junior levels of education) or universities (higher levels of education), and there are clear opportunity costs for each. In policy terms, however, education should be seen as a continuum from school to college to university, and higher education has a role to play in strengthening the stages that come before it. This role needs to be explored and expanded and encapsulated in government policy: universities can train the teachers and advise on curriculum design to strengthen junior education. Their links with businesses can ensure future skills needs are being met throughout the system. At the same time, universities can work with businesses, especially small and medium enterprises (SMEs) to support their growth and in turn their demand for highly skilled graduates. Facilitating internships and placements for students in industry further strengthens these links, and provides a technical and enterprise focus to degrees. As the report concludes:
+
+> Setting employment at the centre of development agendas requires a whole range of policies, plus coordination among these policies and of the dynamics between different sectors of the economy. Education policies need to be matched with the requirements of growing industries with productive employment potential. (p.39)
+
+The continuum between junior and higher levels of education becomes particularly important when we consider development policy. One consequence of the Millennium Development Goals focus on achieving universal primary education is the pipeline of students who could potentially go on to study at university as the MDGs draw to a close this year. Treating each stage in isolation risks missing the opportunity to greatly increase the amount of highly skilled jobs created worldwide in the years ahead.

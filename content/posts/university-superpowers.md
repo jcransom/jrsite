@@ -1,0 +1,16 @@
+---
+title: 'University superpowers: universities, societal challenges and city-building'
+date: Sat, 18 Nov 2017 18:12:03 +0000
+draft: false
+tags: ['Canada', 'cities', 'Toronto', 'Universities']
+---
+
+Earlier this year I visited Canada to speak to city and university leaders in Toronto and the nearby city of Waterloo. A report setting out what we can learn has just been published by KPMG in the UK and is available [here](https://home.kpmg.com/uk/en/home/insights/2017/11/universities-harnessing-their-superpowers.html). _Here’s an intro:_ Universities are an undervalued force for development. With a presence in nearly every major town and city in the world, they should be at the centre of regional regeneration and international partnership building. But too often they are secondary partners, or used to fill subcommittee seats. However, some universities are leading the way in city-building efforts. They are the city’s superpower – a force for long-term prosperity and local inclusivity. They recognise that if their city is failing, they too will fail. They recognise that a skilled and connected city is a successful city. They are proactive and pragmatic. They recognise their role within the city and the mutual benefit their engagement will bring. They understand how they can help solve societal challenges, and they understand that local engagement complements international relations. Toronto’s universities demonstrate how to excel in individual initiatives, yet come together to benefit the city. This report shows how universities in and around Toronto are using five key superpowers to work with their city and strengthen it:
+
+*   Universities are **‘anchor tenants’**, investing in the future and inspiring confidence. They send a message to fellow city residents: we believe in the prosperity of this area.
+*   Universities have **long-term visions**. Looking beyond the cycle of mayoral appointments and provincial elections, universities are a **trusted partner** for future planning.
+*   Universities can be **critical yet constructive**, outspoken yet objective. They are machines for **solving problems and generating ideas**, home to highly-concentrated brainpower, and steeped in knowledge and evidence.
+*   Universities **educate and train** the future workforce. They provide the skills to build the city.
+*   Universities are a **window to the world**, framing local issues within international debates, and bringing global discoveries to the city.
+
+City-building is powered by universities. The next phase of city-building will see greater autonomy and leadership of individual cities. The challenges cities face will grow in complexity and severity. Universities will need to bring their superpowers and play a role at multiple levels: from developments on campus, to city-wide links, to global relations. Universities need to adapt to work effectively with their city. And as the burden of local and global challenges falls increasingly on cities, and as future prosperity continues to depend on training and retaining the most skilled individuals, city leaders will need to unlock the superpowers of their universities. **The full report is available on the KPMG website [here](https://home.kpmg.com/uk/en/home/insights/2017/11/universities-harnessing-their-superpowers.html).**

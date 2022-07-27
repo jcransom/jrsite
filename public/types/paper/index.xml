@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper on James Ransom</title>
+    <link>/types/paper/</link>
+    <description>Recent content in Paper on James Ransom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Nov 2015 00:00:00 +0000</lastBuildDate><atom:link href="/types/paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Future of cities: universities and cities</title>
+      <link>/publications/future-of-cities/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/future-of-cities/</guid>
+      <description>An essay for the UK Government Office for Science which looks at the links between cities and universities and explores how they can work together to solve societal problems and help future cities grow.</description>
+    </item>
+    
+    <item>
+      <title>Replicating Data Mining Techniques for Development: A Case Study of Corruption</title>
+      <link>/publications/data-mining-for-development/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/data-mining-for-development/</guid>
+      <description>MSc thesis which looks at how small civil society organisations can adapt big data for international development applications.</description>
+    </item>
+    
+  </channel>
+</rss>

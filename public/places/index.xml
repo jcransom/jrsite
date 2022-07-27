@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Places on James Ransom</title>
+    <link>/places/</link>
+    <description>Recent content in Places on James Ransom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/places/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UK</title>
+      <link>/places/uk/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/places/uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germany</title>
+      <link>/places/germany/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/places/germany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rwanda</title>
+      <link>/places/rwanda/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/places/rwanda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singapore</title>
+      <link>/places/singapore/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/places/singapore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Israel</title>
+      <link>/places/israel/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/places/israel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweden</title>
+      <link>/places/sweden/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/places/sweden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US</title>
+      <link>/places/us/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/places/us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe</title>
+      <link>/places/europe/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/places/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canada</title>
+      <link>/places/canada/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/places/canada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KPMG</title>
+      <link>/places/kpmg/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/places/kpmg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

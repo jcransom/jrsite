@@ -1,0 +1,22 @@
+---
+title: 'Why we need more inward investment to meet our R&D targets'
+date: 29 Sep 2021
+draft: false
+places: ['UK']
+projects: ['Yorkshire Universities']
+summary: International comparisons suggest R&D targets will be difficult to meet.
+---
+
+{{< lead >}} International comparisons suggest R&D targets will be difficult to meet. {{< /lead >}}
+
+_This post originally appeared on the [Yorkshire Universities](https://yorkshireuniversities.ac.uk/2021/09/29/why-we-need-more-inward-investment-to-meet-our-rd-targets/) website._
+
+The contribution of business is vital if the UK is to meet its target of R&D investment reaching 2.4 percent of GDP by 2027. International comparisons suggest that this is an ambitious target, that will be difficult to meet: achieving R&D funding goals is the exception rather than the norm. Adão Carvalho assessed [how effective R&D intensity policies were across 45 countries](https://academic.oup.com/spp/article-abstract/45/3/373/4600797), and found that 84 percent missed their targets. For 17 percent of countries, R&D intensity actually _decreased_ over the period of the target.
+
+As the business sector is the [largest funder of R&D](https://commonslibrary.parliament.uk/research-briefings/sn04223/) (54 percent), and performs 67 percent of R&D activity, we need to consider how universities can encourage and retain further private sector investment. One means is through inward investment. Foreign-owned businesses in the UK spend nearly as much on R&D activity as UK-owned businesses – [45 percent of the total](https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/researchanddevelopmentexpenditure/bulletins/businessenterpriseresearchanddevelopment/2019).
+
+Recent work has put the role of universities in inward investment efforts higher on the agenda. A statement by [Core Cities UK and 24 universities](https://www.corecities.com/cities/agenda/economy/core-cities-uk-and-24-universities-pledge-work-together-unleash-innovation) called for a UK Urban Trade and Investment Strategy. The National Centre for Universities and Business [R&D Taskforce report](https://www.ncub.co.uk/insight/nations-recovery-hinges-on-new-rd-focused-industrial-strategy-according-to-business-and-university-leaders/) asked government to develop a foreign direct investment in R&D strategy to attract more business investment to R&D in the UK.
+
+More broadly, the topics of place promotion and inward investment intersect with the levelling up agenda, discussions of place, innovation and of shaping the UK’s post-Brexit, post-COVID future. The [UK Innovation Strategy](https://www.gov.uk/government/publications/uk-innovation-strategy-leading-the-future-by-creating-it/uk-innovation-strategy-leading-the-future-by-creating-it-accessible-webpage) has a section dedicated to attracting foreign direct investment. And the role of inward investment in supporting levelling up has come under scrutiny from the House of Commons International Trade Committee, given the wide variations in investment across UK regions. A [report published last week](https://publications.parliament.uk/pa/cm5802/cmselect/cmintrade/124/summary.html) by the Committee emphasises the role of universities, and it draws on evidence provided by Yorkshire Universities (you can [read our full submission here](https://committees.parliament.uk/writtenevidence/23169/pdf/)).
+
+With three-quarters of YU members located in the Leeds City Region, maximising the potential of this large-scale cluster of institutions to attract new investment is critical to Yorkshire and the Humber contributing towards the national 2.4% target. Experimental data suggests [West Yorkshire now ranks sixth](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/foreigndirectinvestmentexperimentaluksubnationalstatistics/july2021) amongst UK city regions for inward investment. At Yorkshire Universities we are working with regional leaders to maximise the contribution of our higher education institutions to increased trade and inward investment. We’ll soon be publishing a discussion paper, _Universities and ‘Place Promotion’ in West Yorkshire_, that sets out some of the key issues and provides practical and immediate actions going forwards. Subscribe to our [news digest](https://twitter.us12.list-manage.com/subscribe?u=e3b3b9031c0cbb187b2debdc3&id=f2e9ffcb0b) or [follow us on Twitter](https://twitter.com/YorkshireUnis) to be the first to know when the report is published.

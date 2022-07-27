@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart cities on James Ransom</title>
+    <link>/projects/smart-cities/</link>
+    <description>Recent content in Smart cities on James Ransom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/projects/smart-cities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart cities research summary: Channel News Asia radio interview</title>
+      <link>/publications/cna-radio-interview/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/cna-radio-interview/</guid>
+      <description>James Ransom interviewed by Daniel Martin on the Life&amp;amp;Style show on CNA938, a news and current affairs radio station in Singapore.</description>
+    </item>
+    
+    <item>
+      <title>New wave of smart cities has arrived – and they’re nothing like science fiction</title>
+      <link>/publications/new-wave-of-smart-cities/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/new-wave-of-smart-cities/</guid>
+      <description>Smart cities are more likely to be defined by quieter upgrades to existing infrastructure and new partnerships that better represent residents. Article for &lt;em&gt;The Conversation&lt;/em&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Smart places – how universities are shaping a new wave of smart cities</title>
+      <link>/publications/smart-places/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/smart-places/</guid>
+      <description>This report, commissioned by the British Council, is about how universities can help solve the challenges faced by cities and towns. It is written for university leaders, city leaders and officials looking to form stronger partnerships with their universities. Examples are given of universities working with city hall in eight cities across Europe: Bucharest (Romania), Darmstadt (Germany), Dublin (Ireland), Lille (France), Milan (Italy), Nottingham (UK), Warsaw (Poland) and Zaragoza (Spain).</description>
+    </item>
+    
+  </channel>
+</rss>

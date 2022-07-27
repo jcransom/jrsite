@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools &amp; processes on James Ransom</title>
+    <link>/projects/tools-processes/</link>
+    <description>Recent content in Tools &amp; processes on James Ransom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/projects/tools-processes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to slightly reduce the time it takes to transcribe an interview</title>
+      <link>/posts/reduce-time-transcribe-interview/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/reduce-time-transcribe-interview/</guid>
+      <description>Over the past few months I’ve had hours and hours of interviews to transcribe, and this is my system for doing it as painlessly as possible.</description>
+    </item>
+    
+    <item>
+      <title>My communications strategy – do less communications</title>
+      <link>/posts/my-communications-strategy/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-communications-strategy/</guid>
+      <description>Reducing time-consuming, distraction-inducing overheads.</description>
+    </item>
+    
+    <item>
+      <title>Replicating Data Mining Techniques for Development: A Case Study of Corruption</title>
+      <link>/publications/data-mining-for-development/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/data-mining-for-development/</guid>
+      <description>MSc thesis which looks at how small civil society organisations can adapt big data for international development applications.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal Article on James Ransom</title>
+    <link>/types/journal-article/</link>
+    <description>Recent content in Journal Article on James Ransom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/types/journal-article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Size Matters: Completing the Jigsaw for Rural and Regional Productivity</title>
+      <link>/publications/size-matters-jigsaw/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/size-matters-jigsaw/</guid>
+      <description>Article co-authored with Matthew Guest, published in the Journal of Applied Business and Economics.</description>
+    </item>
+    
+    <item>
+      <title>The city as a focus for university internationalisation: four European examples</title>
+      <link>/publications/city-university-internationalisation/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/city-university-internationalisation/</guid>
+      <description>Academic article in &lt;em&gt;Compare: A Journal of Comparative and International Education&lt;/em&gt; Volume 48, Issue 4.</description>
+    </item>
+    
+    <item>
+      <title>‘A Little Marshall Plan’: Britain and the formation of the European Payments Union, 1948–50</title>
+      <link>/publications/a-little-marshall-plan/</link>
+      <pubDate>Tue, 21 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/a-little-marshall-plan/</guid>
+      <description>Academic article published in the &lt;em&gt;International History Review&lt;/em&gt;, examining the negotiations leading to the creation of the European Payments Union in 1950 as part of the Marshall Plan.</description>
+    </item>
+    
+  </channel>
+</rss>

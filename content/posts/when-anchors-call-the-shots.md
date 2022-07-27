@@ -1,0 +1,16 @@
+---
+title: 'When anchors call the shots: what Amazon and the European Medicines Agency have in common'
+date: Fri, 13 Oct 2017 09:00:34 +0000
+draft: false
+tags: ['anchors', 'business', 'london', 'Universities']
+---
+
+Many ‘anchors’ – institutions that have a long-term, stabilising presence in a community, and coordinate economic and social activity – are established in an area because of the very characteristics of that area. Think hospitals needing to serve a growing population, or a university near colleges, industry and other intellectual activity. Yet a new breed of anchor institutions have arrived: born unrooted, they float high and unencumbered by place until they are enticed to a city by an offer they can’t refuse. Two recent examples showcase this. First, Amazon is [inviting](https://images-na.ssl-images-amazon.com/images/G/01/Anything/test/images/usa/RFP_3._V516043504_.pdf) metropolitan areas in the US to bid to host the company’s second headquarters. The prize?
+
+> Amazon will hire as many as fifty thousand (50,000) new full-time employees with an average annual total compensation exceeding one hundred thousand dollars ($100,000) over the next ten to fifteen years, following commencement of operations. The Project is expected to have over $5 billion in capital expenditures.
+
+Areas are expected to meet strict criteria, including a highly educated workforce and a ‘strong university system’. The Centre for Cities cover the [ins and outs](http://www.centreforcities.org/blog/uk-cities-can-learn-amazons-criteria-new-hq/) of Amazon’s invitation nicely, concluding that ‘firms like Amazon need cities as much as cities need firms like Amazon’. But it appears that Amazon have the upper hand. Second, the UK’s vote for Brexit has effectively booted the European Medicines Agency (EMA) out of London. The EMA’s Canary Wharf headquarters is home to [890 staff and 36,000 annual visitors](https://www.ft.com/content/e816f0e4-a9a7-11e7-ab55-27219df83c97). EU countries have been [bidding](http://www.politico.eu/article/brexit-ema-european-medicines-agency-hosting-who-is-dead-serious-and-who-along-for-the-ride/) to host the EMA, who have also issued a set of criteria for interested parties. Yet, in this case, existing staff have been particularly influential. Reuters [reports](https://uk.reuters.com/article/us-britain-eu-medicines/eu-drugs-agency-seeking-staff-warns-of-brexit-budget-hit-idUKKBN1CB0OB) that
+
+> A staff survey last week found that between 19 and 94 percent of employees were likely to leave after the move, depending on which location was chosen. Picking Amsterdam, Barcelona, Vienna, Milan or Copenhagen as the new headquarters would be the best option for retaining staff, the survey found.
+
+In both cases, the more connected, more open, more liveable cities with a skilled, educated population are in a far stronger position to attract a floating anchor institution. And as the most successful cities (and the principles of agglomeration) have shown, once you have one anchor it’s much easier to attract further anchors.
