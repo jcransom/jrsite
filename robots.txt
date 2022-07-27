@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jcransom.github.io/jrsite/sitemap.xml
