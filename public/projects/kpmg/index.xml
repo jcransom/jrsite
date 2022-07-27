@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KPMG on James Ransom</title>
-    <link>/projects/kpmg/</link>
+    <link>https://jcransom.github.io/jrsite/projects/kpmg/</link>
     <description>Recent content in KPMG on James Ransom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="/projects/kpmg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://jcransom.github.io/jrsite/projects/kpmg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Universities: harnessing their superpowers</title>
-      <link>/publications/universities-harnessing-superpowers/</link>
+      <link>https://jcransom.github.io/jrsite/publications/universities-harnessing-superpowers/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/universities-harnessing-superpowers/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/universities-harnessing-superpowers/</guid>
       <description>A report for KPMG UK on universities, societal challenges and city-building, based on research conducted in Canada.</description>
     </item>
     

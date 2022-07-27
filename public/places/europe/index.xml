@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Europe on James Ransom</title>
-    <link>/places/europe/</link>
+    <link>https://jcransom.github.io/jrsite/places/europe/</link>
     <description>Recent content in Europe on James Ransom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/places/europe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jcransom.github.io/jrsite/places/europe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New wave of smart cities has arrived – and they’re nothing like science fiction</title>
-      <link>/publications/new-wave-of-smart-cities/</link>
+      <link>https://jcransom.github.io/jrsite/publications/new-wave-of-smart-cities/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/new-wave-of-smart-cities/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/new-wave-of-smart-cities/</guid>
       <description>Smart cities are more likely to be defined by quieter upgrades to existing infrastructure and new partnerships that better represent residents. Article for &lt;em&gt;The Conversation&lt;/em&gt;.</description>
     </item>
     
     <item>
       <title>Smart places – how universities are shaping a new wave of smart cities</title>
-      <link>/publications/smart-places/</link>
+      <link>https://jcransom.github.io/jrsite/publications/smart-places/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/smart-places/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/smart-places/</guid>
       <description>This report, commissioned by the British Council, is about how universities can help solve the challenges faced by cities and towns. It is written for university leaders, city leaders and officials looking to form stronger partnerships with their universities. Examples are given of universities working with city hall in eight cities across Europe: Bucharest (Romania), Darmstadt (Germany), Dublin (Ireland), Lille (France), Milan (Italy), Nottingham (UK), Warsaw (Poland) and Zaragoza (Spain).</description>
     </item>
     
     <item>
       <title>The city as a focus for university internationalisation: four European examples</title>
-      <link>/publications/city-university-internationalisation/</link>
+      <link>https://jcransom.github.io/jrsite/publications/city-university-internationalisation/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publications/city-university-internationalisation/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/city-university-internationalisation/</guid>
       <description>Academic article in &lt;em&gt;Compare: A Journal of Comparative and International Education&lt;/em&gt; Volume 48, Issue 4.</description>
     </item>
     
     <item>
       <title>Universities have the power to create exciting, connected and inclusive cities – here’s how</title>
-      <link>/publications/universities-create-connected-cities/</link>
+      <link>https://jcransom.github.io/jrsite/publications/universities-create-connected-cities/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/universities-create-connected-cities/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/universities-create-connected-cities/</guid>
       <description>Cities and universities can overcome social divides and create better places, but only if they work together. Article for &lt;em&gt;The Conversation&lt;/em&gt;.</description>
     </item>
     
     <item>
       <title>Mutual influence? Universities, cities and the future of internationalisation</title>
-      <link>/publications/mutual-influence/</link>
+      <link>https://jcransom.github.io/jrsite/publications/mutual-influence/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publications/mutual-influence/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/mutual-influence/</guid>
       <description>A report commissioned by the British Council, exploring ways in which university and city leaders can plan international activity based on four case studies: Amsterdam, Dublin, Glasgow and Hannover.</description>
     </item>
     
     <item>
       <title>‘A Little Marshall Plan’: Britain and the formation of the European Payments Union, 1948–50</title>
-      <link>/publications/a-little-marshall-plan/</link>
+      <link>https://jcransom.github.io/jrsite/publications/a-little-marshall-plan/</link>
       <pubDate>Tue, 21 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publications/a-little-marshall-plan/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/a-little-marshall-plan/</guid>
       <description>Academic article published in the &lt;em&gt;International History Review&lt;/em&gt;, examining the negotiations leading to the creation of the European Payments Union in 1950 as part of the Marshall Plan.</description>
     </item>
     

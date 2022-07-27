@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NCEE on James Ransom</title>
-    <link>/projects/ncee/</link>
+    <link>https://jcransom.github.io/jrsite/projects/ncee/</link>
     <description>Recent content in NCEE on James Ransom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/projects/ncee/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jcransom.github.io/jrsite/projects/ncee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>University regeneration activity in four visualisations</title>
-      <link>/posts/regeneration-activity-four-visualisations/</link>
+      <link>https://jcransom.github.io/jrsite/posts/regeneration-activity-four-visualisations/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/regeneration-activity-four-visualisations/</guid>
+      <guid>https://jcransom.github.io/jrsite/posts/regeneration-activity-four-visualisations/</guid>
       <description>Visualising the funding of individual higher education providers over time.</description>
     </item>
     
     <item>
       <title>The 2022 NCEE leadership survey: How the pandemic will shape university leaders and their institutions</title>
-      <link>/publications/ncee-leadership-survey-2022/</link>
+      <link>https://jcransom.github.io/jrsite/publications/ncee-leadership-survey-2022/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publications/ncee-leadership-survey-2022/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/ncee-leadership-survey-2022/</guid>
       <description>This report captures the views of 41 senior leaders from 25 universities on the future of leadership, and the careful balancing act they face between dealing with challenges and exploiting opportunities.</description>
     </item>
     
     <item>
       <title>How the Pandemic Will Shape University Leaders and Their Institutions</title>
-      <link>/publications/pandemic-shape-university-leaders/</link>
+      <link>https://jcransom.github.io/jrsite/publications/pandemic-shape-university-leaders/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/publications/pandemic-shape-university-leaders/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/pandemic-shape-university-leaders/</guid>
       <description>An article for HEPI (the Higher Education Policy Institute) sharing the results of a survey of university leaders.</description>
     </item>
     
     <item>
       <title>The next White Paper arriving in the UK is the delayed Department for Levelling Up strategy calling at the red wall, ‘left behind’ places, and forgotten communities</title>
-      <link>/posts/next-white-paper-arriving-in-uk/</link>
+      <link>https://jcransom.github.io/jrsite/posts/next-white-paper-arriving-in-uk/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/next-white-paper-arriving-in-uk/</guid>
+      <guid>https://jcransom.github.io/jrsite/posts/next-white-paper-arriving-in-uk/</guid>
       <description>First thoughts on the government’s flagship Levelling Up White Paper.</description>
     </item>
     
     <item>
       <title>University Heads of Enterprise Report 2020: unlocking entrepreneurship in education</title>
-      <link>/publications/ncee-enterprise-survey-2020/</link>
+      <link>https://jcransom.github.io/jrsite/publications/ncee-enterprise-survey-2020/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publications/ncee-enterprise-survey-2020/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/ncee-enterprise-survey-2020/</guid>
       <description>This report, Unlocking Entrepreneurship In Education, provides a snapshot of enterprise activity in UK higher education institutions at the time the COVID-19 pandemic struck. It reveals the data on how this activity has changed over the past eight years, and presents a summary of a landscape which is now undergoing unprecedented change.</description>
     </item>
     
     <item>
       <title>The 2019 NCEE leadership survey: Changes and challenges facing university leadership</title>
-      <link>/publications/ncee-leadership-survey-2019/</link>
+      <link>https://jcransom.github.io/jrsite/publications/ncee-leadership-survey-2019/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/ncee-leadership-survey-2019/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/ncee-leadership-survey-2019/</guid>
       <description>Analysis of a survey of over 50 higher education leaders on what they think about leadership and the future of the sector.</description>
     </item>
     
     <item>
       <title>University Heads of Enterprise Report 2018: inspiring entrepreneurship in education</title>
-      <link>/publications/ncee-enterprise-survey-2018/</link>
+      <link>https://jcransom.github.io/jrsite/publications/ncee-enterprise-survey-2018/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/ncee-enterprise-survey-2018/</guid>
+      <guid>https://jcransom.github.io/jrsite/publications/ncee-enterprise-survey-2018/</guid>
       <description>This report reveals the state of enterprise and entrepreneurial education in the UK drawing on a survey by NCEE and ACS International Schools of 62 Heads of Enterprise from UK universities.</description>
     </item>
     
