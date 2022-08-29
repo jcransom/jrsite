@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 theme = "congo"
-baseURL = "https://jcransom.github.io/jrsite/"
+baseURL = "www.jcransom.com"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
