@@ -1,6 +1,6 @@
 ---
 title: "Five years"
-description: "Description."
+description: "Impact over the past five years"
 showDate: false
 showReadingTime: false
 showAuthor: false

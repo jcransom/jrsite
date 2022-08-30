@@ -1,6 +1,6 @@
 ---
 title: "Now"
-description: "Description."
+description: "What I'm doing now"
 showDate: false
 showReadingTime: false
 showAuthor: false

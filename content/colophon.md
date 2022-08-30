@@ -1,6 +1,6 @@
 ---
 title: "Colophon"
-description: "About this site."
+description: "About this site"
 showDate: false
 showReadingTime: false
 showAuthor: false
