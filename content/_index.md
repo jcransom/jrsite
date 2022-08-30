@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "James Ransom: Researcher"
 description: "My research and blog."
 ---
 
