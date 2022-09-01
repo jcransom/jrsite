@@ -13,3 +13,5 @@ This site is built with [Hugo](https://gohugo.io), a static-site generator, and 
 
 ### Subscribe to updates
 If you'd like to follow posts on this site, the best way is via RSS. There are plenty of good, free RSS readers: for {{< icon "apple" >}} Mac and iOS I'd recommend the free [NetNewsWire](https://netnewswire.com). You can also follow RSS feeds via {{< icon "microsoft" >}} [Microsoft Outlook](https://support.microsoft.com/en-us/office/what-are-rss-feeds-e8aaebc3-a0a7-40cd-9e10-88f9c1e74b97).
+
+You can follow blog posts (paste this link: <kbd>https://www.jcransom.com/posts/</kbd>) and publications (this link: <kbd>https://www.jcransom.com/publications/</kbd>).
