@@ -5,6 +5,7 @@ draft: false
 places:
 projects:
 summary: A sketch of what a new form of fellowship provider might look like, and what we can learn from others.
+showTableOfContents: true
 ---
 
 {{< lead >}} A sketch of what a new form of fellowship provider might look like, and what we can learn from others. {{< /lead >}}
