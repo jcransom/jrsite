@@ -10,3 +10,5 @@ showPagination: false
 - For an example of a large international project, see this research on [universities and smart cities]({{< ref "smart-cities" >}}) for the British Council.
 - Here is a piece of [national analysis]({{< ref "publications/analysis-future-impact-uuk" >}}), commissioned by Universities UK.
 - And for a [local-level project]({{< ref "publications/levelling-up-yorkshire-humber" >}}), I was lead author for this report for the NHS Confederation, the Yorkshire & Humber Academic Health Science Network, and Yorkshire Universities.
+
+{{< alert "circle-info" >}} There's also a [full list of publications]({{< ref "publications" >}}), and you can [filter by type]({{< ref "types" >}}). {{< /alert >}}
