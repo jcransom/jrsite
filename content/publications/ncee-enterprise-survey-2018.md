@@ -15,3 +15,5 @@ summary: 'This report reveals the state of enterprise and entrepreneurial educat
 {{< /alert >}}
 
 This report reveals the state of enterprise and entrepreneurial education in the UK drawing on a survey by NCEE and ACS International Schools of 62 Heads of Enterprise from UK universities.
+
+Launched at the House of Lords and [featured in Times Higher Education](https://www.timeshighereducation.com/news/support-entrepreneurship-uk-universities-freefall).

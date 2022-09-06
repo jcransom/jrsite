@@ -7,11 +7,11 @@ places: ['UK']
 projects: ['Impact']
 types: ['Article']
 externalUrl: 'https://wonkhe.com/blogs/how-to-write-an-engagement-strategy/'
-summary: 'In this article for Wonkhe, I ask what university strategies and a psychology experiment from the 1940s have in common.'
+summary: 'In this article for *Wonkhe*, I ask what university strategies and a psychology experiment from the 1940s have in common.'
 ---
 
 {{< alert "link" >}}
 [Available here](https://wonkhe.com/blogs/how-to-write-an-engagement-strategy/) (external link).
 {{< /alert >}}
 
-In this article for Wonkhe, I ask what university strategies and a psychology experiment from the 1940s have in common.
+In this article for *Wonkhe*, I ask what university strategies and a psychology experiment from the 1940s have in common.

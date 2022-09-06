@@ -7,11 +7,11 @@ places: ['UK']
 projects: ['Impact']
 types: ['Journal Article']
 externalUrl: 'https://www.proquest.com/docview/2497234570?pq-origsite=gscholar&fromopenview=true'
-summary: 'Article co-authored with Matthew Guest, published in the Journal of Applied Business and Economics.'
+summary: 'Article co-authored with Matthew Guest, published in the *Journal of Applied Business and Economics*.'
 ---
 
 {{< alert "link" >}}
 [Available here](https://www.proquest.com/docview/2497234570?pq-origsite=gscholar&fromopenview=true) (external link, PDF).
 {{< /alert >}}
 
-Article co-authored with Matthew Guest, published in the Journal of Applied Business and Economics.
+Article co-authored with Matthew Guest, published in the J*ournal of Applied Business and Economics*.
