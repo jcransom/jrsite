@@ -10,3 +10,10 @@ externalUrl: 'https://www.tandfonline.com/doi/abs/10.1080/03057925.2018.1459379?
 summary: 'Academic article in *Compare: A Journal of Comparative and International Education* 
 Volume 48, Issue 4.'
 ---
+
+{{< alert "link" >}}
+[Available here](https://www.tandfonline.com/doi/abs/10.1080/03057925.2018.1459379?journalCode=ccom20) (external link).
+{{< /alert >}}
+
+Academic article in *Compare: A Journal of Comparative and International Education* 
+Volume 48, Issue 4.
