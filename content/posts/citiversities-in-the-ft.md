@@ -3,6 +3,9 @@ title: '“Citiversities” in the Financial Times'
 date: Fri, 16 Feb 2018 16:43:03 +0000
 draft: false
 tags: ['campus', 'cities', 'growth', 'Universities']
+places:
+projects:
+summary: 
 ---
 
 It’s always interesting to read about the role of universities in cities, especially when the university in question is the one where you are studying for a PhD on universities and cities. This time, it is [the FT looking at UCL’s rapid expansion](https://www.ft.com/content/b27f84f8-1006-11e8-940e-08320fc2a277) into east London following reports of academic unease over the institution’s plans. There’s a quite a bit to unpack in the article, from universities as city brands (a big part of [this work](https://jcransom.com/2017/07/02/the-future-of-european-internationalisation/) for the British Council), to the globalisation of higher education and the forces compelling relentless campus expansion within urban areas. But the crux of the article is this:

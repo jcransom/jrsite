@@ -3,6 +3,7 @@ title: 'What universities can learn from excellent libraries about public space'
 date: Thu, 17 Jan 2019 11:29:49 +0000
 draft: false
 tags: ['campus', 'engagement', 'libraries', 'Universities']
+places: ['Finland']
 ---
 
 Most people interested in the role of universities in society would, I think, agree on the following:

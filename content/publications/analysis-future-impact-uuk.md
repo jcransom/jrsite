@@ -14,4 +14,4 @@ summary: This report looks ahead at the predicted impact of UK universities over
 [Available here](https://www.universitiesuk.ac.uk/what-we-do/creating-voice-our-members/media-releases/university-partnerships-will-help-uk) (external link). See also my [blog post]({{< ref "posts/research-on-university-partnerships-for-uuk.md" >}}) for a summary of the impact and press coverage.
 {{< /alert >}}
 
-This report looks ahead at the predicted impact of UK universities over the next five years. It formed the centrepiece of Universities UK's #GettingResults campaign to put universities at the heart of the economic and social recovery.
+This report looks ahead at the predicted impact of UK universities over the next five years. It formed the centrepiece of Universities UK's #GettingResults campaign to put universities at the heart of the economic and social recovery. The campaign reached over 10 million social media users, and politicians across the UK have shown their support.

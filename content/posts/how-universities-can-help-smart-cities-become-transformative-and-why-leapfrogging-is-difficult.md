@@ -3,6 +3,7 @@ title: 'How universities can help ''smart cities'' become transformative (and wh
 date: Fri, 01 Apr 2016 09:41:12 +0000
 draft: false
 tags: ['china', 'cities', 'india', 'international', 'smart cities', 'technology', 'Universities']
+projects: ['Smart cities']
 ---
 
 We are some way from realising the transformative effects of smart cities,[1](#fn-119-1) and further still from these effects benefiting the poorest in society. I have a couple of thoughts on their potential:

@@ -3,7 +3,14 @@ title: 'Twelve examples of how to extend university civic engagement'
 date: Wed, 17 Feb 2021 15:45:03 +0000
 draft: false
 tags: ['engagement', 'health', 'impact', 'Universities']
+places: ['UK']
+projects: ['Yorkshire Universities']
+summary: 
 ---
+
+{{< lead >}} A table of examples to show the mechanics of cross-sector collaboration. {{< /lead >}}
+
+![tables](images/tables.jpg "Photo of tables (tenuous, I know): [Unsplash](https://unsplash.com/photos/N7Mhunjbxqg)")
 
 _This post originally appeared on the [Yorkshire Universities](https://yorkshireuniversities.ac.uk/2021/02/17/twelve-examples-of-how-to-extend-university-civic-engagement/) website._
 
@@ -30,5 +37,3 @@ And how it can be further embedded:
 > There is a programme of work on anticipating and proactively responding to long-term challenges to health and wellbeing in the region, and communicating challenges and opportunities with partners within and beyond the region. A stronger focus on ‘place’ is promoted as a determinant of national research and innovation funding and activity. Regional partners should collectively make the case to attract greater investment in R&D and innovation funding for health.
 
 [The table can be viewed here](https://github.com/jcransom/flagships/blob/master/extending_engagement_table.md). Whilst it may lack the mass appeal of an unearthed gem by your favourite artist, it hopefully offers a starting point for discussions on how universities can extend engagement in their local areas.
-
-_[Photo of tables from Unsplash (tenuous, I know)](https://unsplash.com/photos/N7Mhunjbxqg)_

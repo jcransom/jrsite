@@ -3,9 +3,13 @@ title: 'New smart city dimensions: authoritarian regimes and technology giants'
 date: Thu, 10 Oct 2019 11:19:13 +0000
 draft: false
 tags: ['international', 'smart cities', 'technology', 'Universities']
+projects: ['Smart cities']
+summary: Cutting out the middleman. And communities and civil society and the public sector…
 ---
 
-_(Parla italiano? 🇮🇹 This article is available in Italian on the_ [_MEET Digital Culture Centre website_](https://www.meetcenter.it/it/le-nuove-dimensioni-delle-smart-city-regimi-autoritari-e-giganti-della-tecnologia/)_!)_
+{{< lead >}} Cutting out the middleman. And communities and civil society and the public sector… {{< /lead >}} 
+
+{{< alert "circle-info" >}} Parla italiano? 🇮🇹 This article is available in Italian on the [_MEET Digital Culture Centre_ website](https://www.meetcenter.it/it/le-nuove-dimensioni-delle-smart-city-regimi-autoritari-e-giganti-della-tecnologia/). {{< /alert >}}
 
 My report for the British Council on [universities and smart cities](https://jcransom.com/2019/05/15/smart-places-report/) described the first wave of smart cities led by large technology companies such as IBM and Cisco, followed by bottom-up movements from civil society groups. The report concluded that universities can effectively bridge the two and ensure communities have a say. A couple of months after the final publication, I’m reflecting on how this picture varies outside of Europe (the focus of the research) and on additional forces that are shaping the story. Since publication I’ve [briefly covered](https://jcransom.com/2019/06/06/what-central-banks-and-universities-have-in-common/) the dangers of smart city projects lacking effective partnerships in Canada, but there are two further movements that are worth keeping an eye on.
 

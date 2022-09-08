@@ -6,6 +6,8 @@ places: ['UK']
 summary: Insights from polling of over 1,000 local residents in Greater Manchester.
 ---
 
+{{< lead >}} Insights from polling of over 1,000 local residents in Greater Manchester. {{< /lead >}}
+
 Five universities in Greater Manchester and the Combined Authority recently undertook polling of over 1,000 local residents. The [overall summary](https://civicuniversitynetwork.co.uk/greater-manchester/) is interesting – for example that over half of residents have never visited a local university – but there are some gems hidden in the [230 pages of polling data](https://civicuniversitynetwork.co.uk/wp-content/uploads/2021/05/GM-Universities-Full-tables.pdf).
 
 Take this, for example, from page 186:
