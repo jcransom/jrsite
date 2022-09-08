@@ -26,32 +26,32 @@ I am also finishing up my PhD at UCL Institute of Education, looking at the role
 
 ### Since 2020
 
-- Wrote a series of six briefing papers for the <mark>British Academy</mark>, the UK's national body for the humanities and social sciences, on universities and place (forthcoming).
-- Head of Research at the <mark>National Centre for Entrepreneurship in Education</mark> (NCEE). Research lead for a Foreign Office-funded project examining enterprise in Tunisian universities, and run annual surveys of higher education staff.
-- Analysis of the future impact of universities and lead author for a major report for <mark>Universities UK</mark>, attracting national press coverage.
-- Associate at <mark>Yorkshire Universities</mark>, an organisation representing 12 regional universities. Recent work includes published reports on inward investment and health, and policy work preparing for future funding streams.
-- Provided insight and analysis on international innovation and research clusters for a report published by the <mark>Royal Society</mark>, the UK's national academy of sciences (the most downloaded Royal Society report of 2020).
+- Wrote a series of six briefing papers for the <mark>British Academy</mark>, the UK's national body for the humanities and social sciences, on universities and place *(forthcoming)*.
+- Head of Research at the <mark>National Centre for Entrepreneurship in Education</mark> (NCEE). [Recent projects]({{< ref "projects/ncee/" >}}) include research lead for a Foreign Office-funded project on enterprise in Tunisian universities, and annual surveys of higher education staff.
+- Analysis of the future impact of universities and lead author for a [major report]({{< ref "publications/analysis-future-impact-uuk" >}}) for <mark>Universities UK</mark>, attracting national press coverage.
+- Associate at <mark>Yorkshire Universities</mark>, an organisation representing 12 regional universities. [Recent work]({{< ref "projects/yorkshire-universities/" >}}) includes published reports on inward investment and health, and policy work preparing for future funding streams.
+- Provided insight and analysis on international innovation and research clusters for a [report]({{< ref "publications/research-and-innovation-clusters" >}}) published by the <mark>Royal Society</mark>, the UK's national academy of sciences (the most downloaded Royal Society report of 2020).
 - Research and policy support for the <mark>Imperial College London</mark> senior leadership team.
 - Editorial support for a report on climate change for the <mark>Global University Leaders Council Hamburg</mark>.
 - Analysis of projected social and economic impact for <mark>Greater Manchester Universities</mark>.
 
 ### 2018-2019
 
-- Led eight-country research project for the <mark>British Council</mark> on [universities and 'smart cities']({{< ref "smart-cities" >}}) with extensive press coverage.
+- Led eight-country [research project]({{< ref "smart-cities" >}}) for the <mark>British Council</mark> on universities and 'smart cities' with extensive press coverage.
 - Produced impact case studies of small and specialist institutions for <mark>GuildHE</mark>, a higher education membership organisation.
-- Analytical work for <mark>Rwanda Action</mark>, a charity, including writing and designing two annual impact reports.
+- Analytical work for <mark>Rwanda Action</mark>, a charity, including writing and designing two annual [impact reports]({{< ref "demonstrating-impact-small-charity" >}}).
 - Reading committee member for the UK Government's <mark>Chevening Scholarships</mark> programme.
 
 ### 2016-2017
 
-- Report and academic article for the <mark>British Council</mark> on internationalisation, based on interviews with leaders in four cities. Presented at several major European conferences.  
-- Research reports for <mark>KPMG in the UK</mark>, including fieldwork in Toronto and Glasgow.
+- [Report and academic article]({{< ref "projects/internationalisation" >}}) for the <mark>British Council</mark> on internationalisation, based on interviews with leaders in four cities. Presented at several major European conferences.  
+- [Research reports]({{< ref "projects/kpmg" >}}) for <mark>KPMG in the UK</mark>, including fieldwork in Toronto and Glasgow.
 - Essay and blog on universities and cities commissioned by the <mark>UK Government Office for Science</mark>.
 - Chaired two day workship for the <mark>Higher Education Funding Council for England</mark> (now Research England).
 - Associate at <mark>Work and Learning Opportunities</mark>, a Sussex-based social enterprise: policy advice.
 -  Advisory Associate at the <mark>Class Foundation</mark>, a Dutch NGO focused on urban campuses: wrote articles, chaired conference sessions.
 
-### Traditional employment
+### Other employment
 
 - Policy Researcher, <mark>Universities UK</mark> (UUK), London — 2013 to 2018. I led UUK's work on local growth, working with universities, government and other organisations to shape policy.
 - Programme Assistant, <mark>UNESCO</mark>, Vietnam — 2012. Provided technical support for a DFID-funded research project, together with other UN organisations and the Ministry of Education and Training.
@@ -89,6 +89,6 @@ There is a [full list of publications]({{< ref "publications" >}}) on this site,
 
 **Email:** [j.ransom@hey.com](mailto:j.ransom@hey.com)
 
-Based in London, UK.
+Based near London, UK.
 
 {{< alert "linkedin" >}} I'm also on [LinkedIn](https://www.linkedin.com/in/ransomjames). Please [email me](mailto:j.ransom@hey.com) if you need a conventional PDF version of my CV. {{< /alert >}}
