@@ -1,3 +1,11 @@
+# Blog integration process
+
+0. Keep or retire?
+1. Lead
+2. Tags
+3. Images (and captions)
+4. Internal links
+
 # Internal link (il)
 
 [publication]({{< ref "publications/name" >}})
@@ -26,6 +34,8 @@ This
 
 ![James Ransom](author.jpg "James Ransom")
 
+![alt](images/wine.jpg "Photo credit: [Unsplash](https://unsplash.com/photos/rFOrSRlkno0)")
+
 # Alert
 
 {{< alert "circle-info" >}}
@@ -34,4 +44,10 @@ Just looking for an example of my research? [Check out some samples]({{< ref "sa
 
 # Lead
 
-{{< lead >}} Research {{< /lead >}}
+{{< lead >}} Research. {{< /lead >}}
+
+# YAML tags
+
+places:
+projects:
+summary: 
