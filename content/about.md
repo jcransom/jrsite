@@ -18,6 +18,8 @@ In 2018-19 I led an [eight country research project]({{< ref "smart-cities" >}})
 
 In the past I’ve worked for Universities UK, UNESCO Vietnam, and the Association of Commonwealth Universities. I have also been a Research Affiliate at the University of Rwanda, an Associate at Work and Learning Opportunities (a Sussex-based social enterprise), and an Advisory Associate at the Class of 2020, a Dutch NGO focused on urban campuses. I have also been a reading committee member for the UK Government's Chevening scholarship programme.
 
+For more detail please see [my online CV]({{< ref "cv" >}}).
+
 ![James Ransom](author.jpg "James Ransom")
 
 ### Contact me
