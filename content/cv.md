@@ -38,7 +38,7 @@ I am also finishing up my PhD at UCL Institute of Education, looking at the role
 ### 2018-2019
 
 - Led eight-country [research project]({{< ref "smart-cities" >}}) for the <mark>British Council</mark> on universities and 'smart cities' with extensive press coverage.
-- Produced impact case studies of small and specialist institutions for <mark>GuildHE</mark>, a higher education membership organisation.
+- Produced [impact case studies]({{< ref "publications/building-the-jigsaw" >}}) of small and specialist institutions for <mark>GuildHE</mark>, a higher education membership organisation.
 - Analytical work for <mark>Rwanda Action</mark>, a charity, including writing and designing two annual [impact reports]({{< ref "demonstrating-impact-small-charity" >}}).
 - Reading committee member for the UK Government's <mark>Chevening Scholarships</mark> programme.
 
