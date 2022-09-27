@@ -1,6 +1,6 @@
 ---
 title: 'Building the Jigsaw'
-date: 27 Sept 2022
+date: 27 Sep 2022
 draft: false
 showReadingTime: false
 places: ['UK']
