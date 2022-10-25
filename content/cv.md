@@ -11,7 +11,7 @@ showTableOfContents: true
 {{< lead >}} Higher Education Researcher and PhD candidate {{< /lead >}} 
 
 {{< badge >}}
-Last updated: September 2022
+Last updated: October 2022
 {{< /badge >}}
 
 
