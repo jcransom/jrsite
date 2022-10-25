@@ -7,7 +7,7 @@ places: ['UK']
 projects: ['Impact']
 types: ['Report']
 externalUrl: 'https://static1.squarespace.com/static/61361b280fcb44302576aeee/t/6356d7fd9539ab438c27dd39/1666635775503/GM+Future+Impact+Report.pdf'
-summary: 'This research, commissioned by the Greater Manchester Civic University Board, analyses the impact of Greater Manchester's universities, its people, and businesses, one year on from the signing of a flagship agreement.'
+summary: 'This research, commissioned by the Greater Manchester Civic University Board, analyses the impact of the five GM universities on the city region, its people, and businesses, one year on from the signing of a flagship agreement.'
 ---
 
 {{< alert "link" >}}
