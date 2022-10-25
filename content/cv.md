@@ -33,7 +33,7 @@ I am also finishing up my PhD at UCL Institute of Education, looking at the role
 - Provided insight and analysis on international innovation and research clusters for a [report]({{< ref "publications/research-and-innovation-clusters" >}}) published by the <mark>Royal Society</mark>, the UK's national academy of sciences (the most downloaded Royal Society report of 2020).
 - Research and policy support for the <mark>Imperial College London</mark> senior leadership team.
 - Editorial support for a report on climate change for the <mark>Global University Leaders Council Hamburg</mark>.
-- Analysis of projected social and economic impact for <mark>Greater Manchester Universities</mark>.
+- [Analysis]({{< ref "publications/gmu-assessment-future-impact") of projected social and economic impact for <mark>Greater Manchester Universities</mark>.
 
 ### 2018-2019
 
