@@ -11,7 +11,7 @@ showTableOfContents: true
 {{< lead >}} Higher Education Researcher and PhD candidate {{< /lead >}} 
 
 {{< badge >}}
-Last updated: October 2022
+Last updated: March 2023
 {{< /badge >}}
 
 
@@ -19,7 +19,7 @@ Last updated: October 2022
 
 I am an independent researcher looking at how universities can help solve challenges facing society.
 
-I am also finishing up my PhD at UCL Institute of Education, looking at the roles of universities in cities in Africa.
+I am also co-founder of [Open Impact](https://open-impact.co.uk), a company helping universities better understand their local contribution and make better decisions, and I am finishing up my PhD at UCL Institute of Education, looking at the roles of universities in cities in Africa.
 
 
 ## Freelance experience
@@ -61,7 +61,7 @@ I am also finishing up my PhD at UCL Institute of Education, looking at the role
 ## Education
 
 ### UCL Institute of Education — PhD
-_Higher Education and International Development (part-time; expected submission: December 2022)_
+_Higher Education and International Development (part-time; expected submission: April 2023)_
 
 Exploring how universities in African city regions work with local government to address development challenges. I am part of the Centre for Education and International Development (CEID) and the Centre for Global Higher Education (CGHE), and I was a Research Affiliate at the University of Rwanda. Received funding from the Sir Richard Stapley Educational Trust (2019-2021).
 
