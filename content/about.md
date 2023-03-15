@@ -12,6 +12,8 @@ showPagination: false
 
 Over the past few years I have completed work for the British Council, the Royal Society, the British Academy, Imperial College London, Greater Manchester Universities, KPMG, GuildHE, Rwanda Action, the University of Hamburg, Universities UK, the Government Office for Science, the Higher Education Funding Council for England (now Research England) and British Council International Education Services.
 
+I am co-founder of [Open Impact](https://open-impact.co.uk), a company helping universities better understand their local contribution and make better decisions.
+
 I’m also Head of Research at the National Centre for Entrepreneurship in Education (NCEE), and an Associate at Yorkshire Universities. I am a PhD candidate at UCL Institute of Education, looking at the roles of universities in cities in Africa.
 
 In 2018-19 I led an [eight country research project]({{< ref "smart-cities" >}}) for the British Council on 'smart cities' which attracted national and international press coverage.
