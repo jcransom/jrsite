@@ -14,15 +14,15 @@ Over the past few years I have completed work for the British Council, the Royal
 
 I am co-founder of [Open Impact](https://open-impact.co.uk), a company helping universities better understand their local contribution and make better decisions.
 
-I’m also Head of Research at the National Centre for Entrepreneurship in Education (NCEE), and an Associate at Yorkshire Universities. I am a PhD candidate at UCL Institute of Education, looking at the roles of universities in cities in Africa.
+I’m also Head of Research at the National Centre for Entrepreneurship in Education (NCEE), and a Specialist Advisor to the European Bank for Reconstruction and Development (EBRD). I recently completed [my PhD](https://discovery.ucl.ac.uk/id/eprint/10178999/) at UCL Institute of Education, looking at the roles of universities in cities in Africa.
 
 In 2018-19 I led an [eight country research project]({{< ref "smart-cities" >}}) for the British Council on 'smart cities' which attracted national and international press coverage.
 
-In the past I’ve worked for Universities UK, UNESCO Vietnam, and the Association of Commonwealth Universities. I have also been a Research Affiliate at the University of Rwanda, an Associate at Work and Learning Opportunities (a Sussex-based social enterprise), and an Advisory Associate at the Class of 2020, a Dutch NGO focused on urban campuses. I have also been a reading committee member for the UK Government's Chevening scholarship programme.
+In the past I’ve worked for Universities UK, UNESCO Vietnam, and the Association of Commonwealth Universities. I have also been a Research Affiliate at the University of Rwanda, an Associate at Yorkshire Universities, an Associate at Work and Learning Opportunities (a Sussex-based social enterprise), and an Advisory Associate at the Class of 2020, a Dutch NGO focused on urban campuses. I have also been a reading committee member for the UK Government's Chevening scholarship programme.
 
 For more detail please see [my online CV]({{< ref "cv" >}}).
 
 ![James Ransom](author.jpg "James Ransom")
 
 ### Contact me
-I welcome opportunities to discuss new work and projects. You can [email me](mailto:j.ransom@hey.com) or [connect on LinkedIn](http://www.linkedin.com/in/ransomjames).
+I welcome opportunities to discuss new work and projects. You can [email me](mailto:james@jcransom.com) or [connect on LinkedIn](http://www.linkedin.com/in/ransomjames).

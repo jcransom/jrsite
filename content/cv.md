@@ -8,10 +8,10 @@ showPagination: false
 showTableOfContents: true
 ---
 
-{{< lead >}} Higher Education Researcher and PhD candidate {{< /lead >}} 
+{{< lead >}} Higher Education Specialist {{< /lead >}} 
 
 {{< badge >}}
-Last updated: March 2023
+Last updated: November 2023
 {{< /badge >}}
 
 
@@ -19,7 +19,7 @@ Last updated: March 2023
 
 I am an independent researcher looking at how universities can help solve challenges facing society.
 
-I am also co-founder of [Open Impact](https://open-impact.co.uk), a company helping universities better understand their local contribution and make better decisions, and I am finishing up my PhD at UCL Institute of Education, looking at the roles of universities in cities in Africa.
+I am also co-founder of [Open Impact](https://open-impact.co.uk), a company helping universities better understand their local contribution and make better decisions, a Specialist Advisor to the European Bank for Reconstruction and Development (EBRD), and Head of Research at the National Centre for Entrepreneurship in Education (NCEE). I recently completed [my PhD](https://discovery.ucl.ac.uk/id/eprint/10178999/) at UCL Institute of Education, looking at the roles of universities in cities in Africa.
 
 
 ## Freelance experience
@@ -28,6 +28,7 @@ I am also co-founder of [Open Impact](https://open-impact.co.uk), a company help
 
 - Wrote a series of six briefing papers for the <mark>British Academy</mark>, the UK's national body for the humanities and social sciences, on universities and place *(forthcoming)*.
 - Head of Research at the <mark>National Centre for Entrepreneurship in Education</mark> (NCEE). [Recent projects]({{< ref "projects/ncee/" >}}) include research lead for a Foreign Office-funded project on enterprise in Tunisian universities, and annual surveys of higher education staff.
+- Completed a [case study-driven analysis](https://guildhe.ac.uk/expertise-in-action-impact-of-funding-knowledge-exchange-activity-at-smaller-and-specialist-universities/) of knowledge exchange at small and specialist higher education providers for <mark>GuildHE</mark>, a higher education membership organisation.
 - Analysis of the future impact of universities and lead author for a [major report]({{< ref "publications/analysis-future-impact-uuk" >}}) for <mark>Universities UK</mark>, attracting national press coverage.
 - Associate at <mark>Yorkshire Universities</mark>, an organisation representing 12 regional universities. [Recent work]({{< ref "projects/yorkshire-universities/" >}}) includes published reports on inward investment and health, and policy work preparing for future funding streams.
 - Provided insight and analysis on international innovation and research clusters for a [report]({{< ref "publications/research-and-innovation-clusters" >}}) published by the <mark>Royal Society</mark>, the UK's national academy of sciences (the most downloaded Royal Society report of 2020).
@@ -38,7 +39,7 @@ I am also co-founder of [Open Impact](https://open-impact.co.uk), a company help
 ### 2018-2019
 
 - Led eight-country [research project]({{< ref "smart-cities" >}}) for the <mark>British Council</mark> on universities and 'smart cities' with extensive press coverage.
-- Produced [impact case studies]({{< ref "publications/building-the-jigsaw" >}}) of small and specialist institutions for <mark>GuildHE</mark>, a higher education membership organisation.
+- Produced [local impact case studies]({{< ref "publications/building-the-jigsaw" >}}) of small and specialist institutions for <mark>GuildHE</mark>.
 - Analytical work for <mark>Rwanda Action</mark>, a charity, including writing and designing two annual [impact reports]({{< ref "demonstrating-impact-small-charity" >}}).
 - Reading committee member for the UK Government's <mark>Chevening Scholarships</mark> programme.
 
